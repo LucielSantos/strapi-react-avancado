@@ -14,7 +14,7 @@
     "@strapi/plugin-i18n": "4.1.0",
     "@strapi/plugin-users-permissions": "4.1.0",
     "@strapi/strapi": "4.1.0",
-    "mysql": "2.18.1",
+    "pg": "^8.7.3",
     "strapi-plugin-ckeditor5": "^2.0.0-rc.2"
   },
   "author": {
