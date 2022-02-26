@@ -2,21 +2,21 @@
   "collectionName": "components_page_social_links",
   "info": {
     "displayName": "socialLinks",
-    "icon": "network-wired"
+    "icon": "network-wired",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "title": {
       "type": "enumeration",
       "enum": [
-        "Githhub",
-        "Twiter",
-        "Dribble",
+        "Github",
+        "Twitter",
+        "Dribbble",
         "Linkedin",
         "Facebook"
       ],
-      "required": true,
-      "default": "Twiter"
+      "required": true
     },
     "url": {
       "type": "string",

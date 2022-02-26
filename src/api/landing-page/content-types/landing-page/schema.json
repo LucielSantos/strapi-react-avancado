@@ -72,7 +72,7 @@
     "sectionReviews": {
       "displayName": "sectionReviews",
       "type": "component",
-      "repeatable": true,
+      "repeatable": false,
       "component": "page.section-reviews"
     },
     "sectionFAQ": {
